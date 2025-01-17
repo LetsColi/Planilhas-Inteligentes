@@ -23,4 +23,5 @@ Projeto com o objetivo de gerar uma planilha inteligente
 - [ChatGPT](https://chat.openai.com/) 
 
 
-- Planilha gerada: 
+
+## Planilha gerada:
