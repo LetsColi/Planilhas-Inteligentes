@@ -25,3 +25,4 @@ Projeto com o objetivo de gerar uma planilha inteligente
 
 
 ## Planilha gerada:
+[Baixar a planilha Excel](./Planilha_Inteligente.xlsx)
